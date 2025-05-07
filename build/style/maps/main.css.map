@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss","C:/EBAC%20-%20Codes/gulp/source/styles/variaveis.scss"],"names":[],"mappings":"AAGA;EACI,kBCJW;;;ADOf","sourcesContent":["@use './variaveis';\r\n\r\n\r\nbody {\r\n    background-color: variaveis.$corPrincipal;\r\n}\r\n\r\n/* teste*/","$corPrincipal: rgb(32, 87, 251);"],"file":"../main.css"}

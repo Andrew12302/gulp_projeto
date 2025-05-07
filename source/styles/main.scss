@@ -1,4 +1,5 @@
-@use 'variveis.scss';
+@use './variaveis';
+
 
 body {
     background-color: variaveis.$corPrincipal;
